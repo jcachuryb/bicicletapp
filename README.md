@@ -1,4 +1,4 @@
-Bicicletapp
+Bicicletapp JUAN CAMILO ACHURY BUENO 2879322
 ======
 #IS-II project
 Existen dos tipos de Usuarios en la aplicación. 
