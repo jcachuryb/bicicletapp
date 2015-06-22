@@ -1,0 +1,3 @@
+# Module bicicletapp
+# RPC service class, partial path of RPC policy file
+co.edu.unal.biciapp.client.GreetingService, 8FB326EFEF65A598B71291DDA34893AD.gwt.rpc

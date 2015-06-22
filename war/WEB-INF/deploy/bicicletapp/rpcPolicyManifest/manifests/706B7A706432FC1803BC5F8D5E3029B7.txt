@@ -1,0 +1,2 @@
+serviceClass: co.edu.unal.biciapp.client.GreetingService
+path: 8FB326EFEF65A598B71291DDA34893AD.gwt.rpc

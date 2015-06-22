@@ -1,0 +1,114 @@
+#body {
+	background: url("http://i57.tinypic.com/hrllpd.png") top left repeat-y;
+}
+/** Add css rules here for your application. */
+/** Example rules used by the template application (remove for your app) */
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	text-align: center;
+}
+
+.title {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	margin: 10px 0px 22px;
+	text-align: center;
+}
+
+.sendButton {
+	display: block;
+	font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+	width: 400px;
+}
+
+.dialogVPanel {
+	margin: 2px;
+}
+
+.label {
+	margin: 5px;
+}
+
+.regPanel {
+	margin: 15px 6px 6px;
+	border: 2px solid gray;
+}
+
+.serverResponseLabelError {
+	color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+	margin: 15px 6px 6px;
+}
+
+.login-banner {
+	background-color: #0296D7;
+	border-bottom: 1px solid #0296D7;
+	color: #FFF;
+	cursor: auto;
+	font: 11px/27px Arial, sans-serif;
+	font-weight: cursiv;
+	height: 31px;
+	left: 0;
+	opacity: 1;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 990;
+}
+
+.login-area,.login-area:hover,.login-area:visited {
+	border-width: 4px;
+	font-size: 13pt;
+	font-weight: 300;
+	color: #FFF;
+	text-decoration: none;
+}
+
+#btn-aceptar {
+	display: block;
+	border: 2px solid #0088FF;
+	color: #FFFFFF;
+	text-align: center;
+	background: #4DACFF;
+}
+
+#btn-guardar {
+	display: block;
+	border: 2px solid #00BA1C;
+	color: #FFFFFF;
+	text-align: center;
+	background: #00DF21;
+}
+
+#btn-cancelar {
+	display: block;
+	border: 2px solid #7F7F7F;
+	color: #000000;
+	text-align: center;
+	background: #D2D2D2;
+}
+#btn-eliminar {
+	display: block;
+	border: 2px solid #D71818;
+	color: #FFF;
+	text-align: center;
+	background: #FF0000;
+}
+
+#role-title{
+	color: red;
+}
+
+#panel{
+	margin: 15px 6px 6px;
+}
